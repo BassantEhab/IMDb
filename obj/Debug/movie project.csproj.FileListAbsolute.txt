@@ -1,0 +1,28 @@
+c:\users\erini gerges\documents\visual studio 2015\Projects\movie project\movie project\bin\Debug\movie project.exe.config
+c:\users\erini gerges\documents\visual studio 2015\Projects\movie project\movie project\bin\Debug\movie project.exe
+c:\users\erini gerges\documents\visual studio 2015\Projects\movie project\movie project\bin\Debug\movie project.pdb
+c:\users\erini gerges\documents\visual studio 2015\Projects\movie project\movie project\obj\Debug\movie project.csprojResolveAssemblyReference.cache
+c:\users\erini gerges\documents\visual studio 2015\Projects\movie project\movie project\obj\Debug\movie_project.Form1.resources
+c:\users\erini gerges\documents\visual studio 2015\Projects\movie project\movie project\obj\Debug\movie_project.Properties.Resources.resources
+c:\users\erini gerges\documents\visual studio 2015\Projects\movie project\movie project\obj\Debug\movie project.csproj.GenerateResource.Cache
+c:\users\erini gerges\documents\visual studio 2015\Projects\movie project\movie project\obj\Debug\movie project.exe
+c:\users\erini gerges\documents\visual studio 2015\Projects\movie project\movie project\obj\Debug\movie project.pdb
+C:\Users\Erini Gerges\Documents\Visual Studio 2015\Projects\movie project\movie project\obj\Debug\movie_project.Form2.resources
+C:\Users\BassantEhab\Desktop\movie project55\bin\Debug\movie project.exe.config
+C:\Users\BassantEhab\Desktop\movie project55\obj\Debug\movie project.exe
+C:\Users\BassantEhab\Desktop\movie project55\obj\Debug\movie project.pdb
+C:\Users\BassantEhab\Desktop\movie project55\bin\Debug\movie project.exe
+C:\Users\BassantEhab\Desktop\movie project55\bin\Debug\movie project.pdb
+C:\Users\BassantEhab\Desktop\movie project55\obj\Debug\movie project.csprojResolveAssemblyReference.cache
+C:\Users\BassantEhab\Desktop\movie project55\obj\Debug\movie_project.Form1.resources
+C:\Users\BassantEhab\Desktop\movie project55\obj\Debug\movie_project.Properties.Resources.resources
+C:\Users\BassantEhab\Desktop\movie project55\obj\Debug\movie project.csproj.GenerateResource.Cache
+E:\Project\movie project55\bin\Debug\movie project.exe.config
+E:\Project\movie project55\bin\Debug\movie project.exe
+E:\Project\movie project55\bin\Debug\movie project.pdb
+E:\Project\movie project55\obj\Debug\movie project.csprojAssemblyReference.cache
+E:\Project\movie project55\obj\Debug\movie_project.Form1.resources
+E:\Project\movie project55\obj\Debug\movie_project.Properties.Resources.resources
+E:\Project\movie project55\obj\Debug\movie project.csproj.GenerateResource.cache
+E:\Project\movie project55\obj\Debug\movie project.exe
+E:\Project\movie project55\obj\Debug\movie project.pdb

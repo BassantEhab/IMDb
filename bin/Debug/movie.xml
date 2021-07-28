@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table name="movies">
+  <movie>
+    <Movie_ID>1</Movie_ID>
+    <Movie_Title>Titanic</Movie_Title>
+    <Movie_Director>James Cameron</Movie_Director>
+    <Movie_Year>1997</Movie_Year>
+    <Movie_Rating>8.9</Movie_Rating>
+    <Movie_Genre Movie_Genre1="Romantic" />
+  </movie>
+  <movie>
+    <Movie_ID>2</Movie_ID>
+    <Movie_Title>me before you</Movie_Title>
+    <Movie_Director>Thea Sharrock</Movie_Director>
+    <Movie_Year>2016</Movie_Year>
+    <Movie_Rating>8</Movie_Rating>
+    <Movie_Genre Movie_Genre1="Romantic" />
+  </movie>
+  <movie>
+    <Movie_ID>3</Movie_ID>
+    <Movie_Title>Harry Potter and The Deathly Hollow 1</Movie_Title>
+    <Movie_Director>David Yates</Movie_Director>
+    <Movie_Year>2011</Movie_Year>
+    <Movie_Rating>8.1</Movie_Rating>
+    <Movie_Genre Movie_Genre1="Adventure" />
+  </movie>
+  <movie>
+    <Movie_ID>4</Movie_ID>
+    <Movie_Title>Harry Potter and The Deathly Hallow 2</Movie_Title>
+    <Movie_Director>David Yates</Movie_Director>
+    <Movie_Year>2010</Movie_Year>
+    <Movie_Rating>7.7</Movie_Rating>
+    <Movie_Genre Movie_Genre1="Adventure" />
+  </movie>
+  <movie>
+    <Movie_ID>5</Movie_ID>
+    <Movie_Title>The Nun</Movie_Title>
+    <Movie_Director>Corin Hardy</Movie_Director>
+    <Movie_Year>2018</Movie_Year>
+    <Movie_Rating>5.4</Movie_Rating>
+    <Movie_Genre Movie_Genre1="Adventure" />
+  </movie>
+  <movie>
+    <Movie_ID>1</Movie_ID>
+    <Movie_Title>uuuuu</Movie_Title>
+    <Movie_Director>pouihvb</Movie_Director>
+    <Movie_Year>5345453</Movie_Year>
+    <Movie_Rating>9</Movie_Rating>
+    <Movie_Genre Movie_Genre1="Romantic" />
+  </movie>
+</Table>
